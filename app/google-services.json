@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719313777018",
+    "firebase_url": "https://adventuremadness-367b4.firebaseio.com",
+    "project_id": "adventuremadness-367b4",
+    "storage_bucket": "adventuremadness-367b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719313777018:android:fc7bec365aa19053",
+        "android_client_info": {
+          "package_name": "com.example.rahatilashikin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719313777018-i9sreglj6uu3n9tllcuojqq3jp68ojk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahatilashikin.myapplication",
+            "certificate_hash": "6a236f09dcef5bedeba545ac6ae26adb866e9382"
+          }
+        },
+        {
+          "client_id": "719313777018-jg297pj1tic87rlrgvmbbil127v08fh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFv6JK9n1hv1Tviul62r5JKQITH_T61Fg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719313777018-jg297pj1tic87rlrgvmbbil127v08fh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
